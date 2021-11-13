@@ -1,16 +1,16 @@
 {
     "PC": {
-        "major": 0,
+        "major": 1,
         "minor": 0,
         "patch": 0
     },
     "TOUCH": {
-        "major": 3,
-        "minor": 1,
-        "patch": 1
+        "major": 1,
+        "minor": 0,
+        "patch": 0
     },
     "RETRO": {
-        "major": 0,
+        "major": 1,
         "minor": 0,
         "patch": 0
     }
