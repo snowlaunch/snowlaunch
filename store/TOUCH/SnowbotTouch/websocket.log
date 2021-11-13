@@ -1,0 +1,61 @@
+07/11/2021 08:43:42|Trace|WebSocket.close:0|Begin closing the connection.
+07/11/2021 08:43:42|Debug|WebSocket.closeHandshake:0|Was clean?: False
+                            sent: False
+                            received: True
+07/11/2021 08:43:42|Trace|WebSocket.close:0|End closing the connection.
+07/11/2021 08:43:42|Debug|WebSocket.sendHttpRequest:0|A request to the server:
+                          GET /primus/?STICKER=8RC3MMB5WVHBLAKU&_primuscb=NpvMbwg&EIO=3&transport=websocket&t=NpvMbwg&b64=1 HTTP/1.1
+                          Accept-Encoding: gzip, deflate, br
+                          Accept-Language: fr
+                          Cache-Control: no-cache
+                          Connection: Upgrade
+                          Host: proxyconnection.touch.dofus.com
+                          Origin: file://
+                          Pragma: no-cache
+                          Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+                          User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; K92 Build/NMF26V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.76 Mobile Safari/537.36
+                          Upgrade: websocket
+                          Sec-WebSocket-Key: cwVohjN6AfeHsIzuAe/Ivw==
+                          Sec-WebSocket-Version: 13
+07/11/2021 08:43:42|Debug|WebSocket.sendHttpRequest:0|A response to this request:
+                          HTTP/1.1 101 Switching Protocols
+                          Date: Sun, 07 Nov 2021 07:43:41 GMT
+                          Connection: upgrade
+                          Set-Cookie: AWSALBTG=GXXREvKu96o3Uoz2nPy0tiQ2lUTdrcvtCUh5FISJ5L+dhVAmddaMElBgSoAO7b1dSdQ3D6ZzxMNHOospTNt1CIt/0EJKc4g6FaNyjXUvhqnfR5WdZIrphdI6BqrlXf5548IKLR02gFXlcUfhwRB0bw0DOej7AX3TxIE+SHlo/DhH; Expires=Sun, 14 Nov 2021 07:43:41 GMT; Path=/,AWSALBTGCORS=GXXREvKu96o3Uoz2nPy0tiQ2lUTdrcvtCUh5FISJ5L+dhVAmddaMElBgSoAO7b1dSdQ3D6ZzxMNHOospTNt1CIt/0EJKc4g6FaNyjXUvhqnfR5WdZIrphdI6BqrlXf5548IKLR02gFXlcUfhwRB0bw0DOej7AX3TxIE+SHlo/DhH; Expires=Sun, 14 Nov 2021 07:43:41 GMT; Path=/; SameSite=None; Secure,AWSALB=KDtm1k3oSJawPPzMLrZV5OMZgMyn4pkdXX3Qx6M6FhUOg/QaNF9bVCP4BNiid8ncDzpJb6qTef5C6Mq0OFTzGkfKeRGOXdZLmk1Wv1jQaIKrw3EgrsQPdi/UUo2Y; Expires=Sun, 14 Nov 2021 07:43:41 GMT; Path=/,AWSALBCORS=KDtm1k3oSJawPPzMLrZV5OMZgMyn4pkdXX3Qx6M6FhUOg/QaNF9bVCP4BNiid8ncDzpJb6qTef5C6Mq0OFTzGkfKeRGOXdZLmk1Wv1jQaIKrw3EgrsQPdi/UUo2Y; Expires=Sun, 14 Nov 2021 07:43:41 GMT; Path=/; SameSite=None; Secure,__cf_bm=NFS0Va.Ze2wweygnGOrKpXNbmq0yKWzls5aF.KzZfbc-1636271021-0-AcS01Kn1VqOPx0k3vY39IqbUnyXm/qT53+/57otJ26oUqNVzqDW6ESzseSmeVspkN66ryfZkhS2kEIoo+BHbrWsUjRt3UPE3JAEa2XbKz/K+; path=/; expires=Sun, 07-Nov-21 08:13:41 GMT; domain=.dofus.com; HttpOnly; Secure; SameSite=None,__cfruid=0efda39e30aa0c7acf635e40f8242490609f8c9d-1636271021; path=/; domain=.dofus.com; HttpOnly; Secure; SameSite=None
+                          Upgrade: websocket
+                          Sec-WebSocket-Accept: CLgTOCTvTPtNY14pk2Y1U0fgT60=
+                          CF-Cache-Status: DYNAMIC
+                          Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                          Server: cloudflare
+                          CF-RAY: 6aa4ee9e1d02d48c-BRU
+07/11/2021 08:43:43|Trace|WebSocket.close:0|Begin closing the connection.
+07/11/2021 08:43:43|Info |WebSocket.close:0|Closing the connection has already been done.
+07/11/2021 08:43:43|Debug|WebSocket.closeHandshake:0|Was clean?: True
+                            sent: True
+                            received: True
+07/11/2021 08:43:43|Trace|WebSocket.close:0|End closing the connection.
+07/11/2021 08:43:43|Debug|WebSocket.sendHttpRequest:0|A request to the server:
+                          GET /primus/?STICKER=8RC3MMB5WVHBLAKU&_primuscb=NpvMcFX&EIO=3&transport=websocket&t=NpvMcFX&b64=1 HTTP/1.1
+                          Accept-Encoding: gzip, deflate, br
+                          Accept-Language: fr
+                          Cache-Control: no-cache
+                          Connection: Upgrade
+                          Host: irelandgameproxy.touch.dofus.com
+                          Origin: file://
+                          Pragma: no-cache
+                          Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+                          User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; K92 Build/NMF26V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.76 Mobile Safari/537.36
+                          Upgrade: websocket
+                          Sec-WebSocket-Key: 8k/TZVJQG1rtoKoHXWo1Bg==
+                          Sec-WebSocket-Version: 13
+07/11/2021 08:43:43|Debug|WebSocket.sendHttpRequest:0|A response to this request:
+                          HTTP/1.1 101 Switching Protocols
+                          Date: Sun, 07 Nov 2021 07:43:42 GMT
+                          Connection: upgrade
+                          Set-Cookie: AWSALB=rgVujWwy5esp3/tBO9OC3LATbuyaFbopQhgUI6byOJPbNVrq/7R9RUJFLHFal4/Z1SqlToLMVjIKPk34Ypa2PpOcoOozB8cAOzMkCBGG56teoGjXja6eu2OXN5hz; Expires=Sun, 14 Nov 2021 07:43:42 GMT; Path=/,AWSALBCORS=rgVujWwy5esp3/tBO9OC3LATbuyaFbopQhgUI6byOJPbNVrq/7R9RUJFLHFal4/Z1SqlToLMVjIKPk34Ypa2PpOcoOozB8cAOzMkCBGG56teoGjXja6eu2OXN5hz; Expires=Sun, 14 Nov 2021 07:43:42 GMT; Path=/; SameSite=None; Secure,__cf_bm=PQGBOk2sZa7TOs6j3Jjp8Hn4DpdGNckmxkvGPxO1ax4-1636271022-0-AVE745UbT6S/S8dhzhLG2U4je0gHR0w3BrJO3wlEUPa/OcgfBpZqqsQP3a/IoKwBTCqHoShh4MDJK/6G70pbD99O6pE6ZP02LPgG1Jfh/RPL; path=/; expires=Sun, 07-Nov-21 08:13:42 GMT; domain=.dofus.com; HttpOnly; Secure; SameSite=None,__cfruid=3c10a8149a88e78dfbf900bb75d74e668b00a21f-1636271022; path=/; domain=.dofus.com; HttpOnly; Secure; SameSite=None
+                          Upgrade: websocket
+                          Sec-WebSocket-Accept: D0okd1s79O/BtKCGL1M+XJAP6DU=
+                          CF-Cache-Status: DYNAMIC
+                          Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                          Server: cloudflare
+                          CF-RAY: 6aa4eea14ded2e56-BRU

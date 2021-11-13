@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configform xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SpellAuto>-1</SpellAuto>
+  <CaractAuto>0</CaractAuto>
+  <Placement>0</Placement>
+  <SpeedFight>0</SpeedFight>
+  <Regen>80</Regen>
+  <RegenTeam>false</RegenTeam>
+  <Flood />
+  <FloodActivate>false</FloodActivate>
+  <Commerce>true</Commerce>
+  <Recrutement>true</Recrutement>
+  <ConnexionAuto>true</ConnexionAuto>
+  <Sucess>true</Sucess>
+  <StatuPrivate>true</StatuPrivate>
+  <AntiAgro>false</AntiAgro>
+  <BankReturn>80</BankReturn>
+  <ExchangeHost />
+  <ExchangeActivate>false</ExchangeActivate>
+  <TimeWait>1500</TimeWait>
+  <RegenAutoIDActivate>false</RegenAutoIDActivate>
+  <ToggleActivate>false</ToggleActivate>
+  <LogsActivate>false</LogsActivate>
+  <Incarnam>true</Incarnam>
+  <FloodSameCharacter>false</FloodSameCharacter>
+  <FloodMapEnter>false</FloodMapEnter>
+  <SpellConfig />
+  <Tactic>Imobile</Tactic>
+  <FarCells>8</FarCells>
+</Configform>

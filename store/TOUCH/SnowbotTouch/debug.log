@@ -1,0 +1,93 @@
+[0804/214233.527:ERROR:backend_impl.cc(1426)] Unable to map Index file
+[0804/214233.528:ERROR:cache_util_win.cc(21)] Unable to move the cache: Accès refusé. (0x5)
+[0804/214233.528:ERROR:cache_util.cc(141)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0804/214233.529:ERROR:disk_cache.cc(178)] Unable to create cache
+[0804/214233.529:ERROR:shader_disk_cache.cc(605)] Shader Cache Creation failed: -2
+[0805/101603.339:ERROR:backend_impl.cc(1426)] Unable to map Index file
+[0805/131132.119:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/131132.142:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/131137.123:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/131137.146:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/131142.130:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/131142.154:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/131256.508:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/131256.771:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133028.575:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133028.755:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133033.686:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133033.760:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133038.749:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133038.764:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133043.769:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133043.795:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133048.775:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133048.832:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133053.779:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133053.876:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133058.785:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133058.911:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133103.791:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[0805/133103.944:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1107/084334.819:WARNING:resource_bundle.cc(1105)] unable to find resource: 104
+[1107/084334.820:WARNING:resource_bundle.cc(1105)] unable to find resource: 104
+[1107/084334.820:WARNING:resource_bundle.cc(1105)] unable to find resource: 105
+[1107/084334.820:WARNING:resource_bundle.cc(1105)] unable to find resource: 106
+[1107/084334.820:WARNING:resource_bundle.cc(1105)] unable to find resource: 107
+[1107/084334.820:WARNING:resource_bundle.cc(1105)] unable to find resource: 107
+[1107/084334.821:WARNING:resource_bundle.cc(1105)] unable to find resource: 109
+[1107/084334.821:WARNING:resource_bundle.cc(1105)] unable to find resource: 110
+[1107/084334.821:WARNING:resource_bundle.cc(1105)] unable to find resource: 111
+[1107/084334.821:WARNING:resource_bundle.cc(1105)] unable to find resource: 112
+[1107/084334.821:WARNING:resource_bundle.cc(1105)] unable to find resource: 113
+[1107/084334.821:WARNING:resource_bundle.cc(1105)] unable to find resource: 114
+[1107/084334.821:WARNING:resource_bundle.cc(1105)] unable to find resource: 115
+[1107/084334.821:WARNING:resource_bundle.cc(1105)] unable to find resource: 116
+[1107/084334.821:WARNING:resource_bundle.cc(1105)] unable to find resource: 117
+[1107/084334.822:WARNING:resource_bundle.cc(1105)] unable to find resource: 118
+[1107/084334.822:WARNING:resource_bundle.cc(1105)] unable to find resource: 119
+[1107/084334.822:WARNING:resource_bundle.cc(1105)] unable to find resource: 120
+[1107/084334.822:WARNING:resource_bundle.cc(1105)] unable to find resource: 121
+[1107/084334.859:WARNING:resource_bundle.cc(1105)] unable to find resource: 298
+[1107/084334.859:WARNING:resource_bundle.cc(1105)] unable to find resource: 299
+[1107/084341.742:WARNING:resource_bundle.cc(1105)] unable to find resource: 104
+[1107/084341.742:WARNING:resource_bundle.cc(1105)] unable to find resource: 104
+[1107/084341.742:WARNING:resource_bundle.cc(1105)] unable to find resource: 105
+[1107/084341.742:WARNING:resource_bundle.cc(1105)] unable to find resource: 106
+[1107/084341.742:WARNING:resource_bundle.cc(1105)] unable to find resource: 107
+[1107/084341.743:WARNING:resource_bundle.cc(1105)] unable to find resource: 107
+[1107/084341.743:WARNING:resource_bundle.cc(1105)] unable to find resource: 109
+[1107/084341.743:WARNING:resource_bundle.cc(1105)] unable to find resource: 110
+[1107/084341.743:WARNING:resource_bundle.cc(1105)] unable to find resource: 111
+[1107/084341.743:WARNING:resource_bundle.cc(1105)] unable to find resource: 112
+[1107/084341.743:WARNING:resource_bundle.cc(1105)] unable to find resource: 113
+[1107/084341.744:WARNING:resource_bundle.cc(1105)] unable to find resource: 114
+[1107/084341.744:WARNING:resource_bundle.cc(1105)] unable to find resource: 115
+[1107/084341.748:WARNING:resource_bundle.cc(1105)] unable to find resource: 116
+[1107/084341.749:WARNING:resource_bundle.cc(1105)] unable to find resource: 117
+[1107/084341.749:WARNING:resource_bundle.cc(1105)] unable to find resource: 118
+[1107/084341.749:WARNING:resource_bundle.cc(1105)] unable to find resource: 119
+[1107/084341.750:WARNING:resource_bundle.cc(1105)] unable to find resource: 120
+[1107/084341.750:WARNING:resource_bundle.cc(1105)] unable to find resource: 121
+[1107/084341.760:WARNING:resource_bundle.cc(1105)] unable to find resource: 298
+[1107/084341.760:WARNING:resource_bundle.cc(1105)] unable to find resource: 299
+[1107/084342.196:WARNING:resource_bundle.cc(1105)] unable to find resource: 104
+[1107/084342.196:WARNING:resource_bundle.cc(1105)] unable to find resource: 104
+[1107/084342.200:WARNING:resource_bundle.cc(1105)] unable to find resource: 105
+[1107/084342.200:WARNING:resource_bundle.cc(1105)] unable to find resource: 106
+[1107/084342.200:WARNING:resource_bundle.cc(1105)] unable to find resource: 107
+[1107/084342.200:WARNING:resource_bundle.cc(1105)] unable to find resource: 107
+[1107/084342.200:WARNING:resource_bundle.cc(1105)] unable to find resource: 109
+[1107/084342.200:WARNING:resource_bundle.cc(1105)] unable to find resource: 110
+[1107/084342.201:WARNING:resource_bundle.cc(1105)] unable to find resource: 111
+[1107/084342.201:WARNING:resource_bundle.cc(1105)] unable to find resource: 112
+[1107/084342.201:WARNING:resource_bundle.cc(1105)] unable to find resource: 113
+[1107/084342.201:WARNING:resource_bundle.cc(1105)] unable to find resource: 114
+[1107/084342.201:WARNING:resource_bundle.cc(1105)] unable to find resource: 115
+[1107/084342.201:WARNING:resource_bundle.cc(1105)] unable to find resource: 116
+[1107/084342.202:WARNING:resource_bundle.cc(1105)] unable to find resource: 117
+[1107/084342.202:WARNING:resource_bundle.cc(1105)] unable to find resource: 118
+[1107/084342.202:WARNING:resource_bundle.cc(1105)] unable to find resource: 119
+[1107/084342.202:WARNING:resource_bundle.cc(1105)] unable to find resource: 120
+[1107/084342.202:WARNING:resource_bundle.cc(1105)] unable to find resource: 121
+[1107/084342.211:WARNING:resource_bundle.cc(1105)] unable to find resource: 298
+[1107/084342.211:WARNING:resource_bundle.cc(1105)] unable to find resource: 299
